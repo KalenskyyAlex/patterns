@@ -1,0 +1,13 @@
+C:\Users\Олександр\source\repos\DuckUSim\bin\Debug\netcoreapp3.1\DuckUSim.exe
+C:\Users\Олександр\source\repos\DuckUSim\bin\Debug\netcoreapp3.1\DuckUSim.deps.json
+C:\Users\Олександр\source\repos\DuckUSim\bin\Debug\netcoreapp3.1\DuckUSim.runtimeconfig.json
+C:\Users\Олександр\source\repos\DuckUSim\bin\Debug\netcoreapp3.1\DuckUSim.runtimeconfig.dev.json
+C:\Users\Олександр\source\repos\DuckUSim\bin\Debug\netcoreapp3.1\DuckUSim.dll
+C:\Users\Олександр\source\repos\DuckUSim\bin\Debug\netcoreapp3.1\DuckUSim.pdb
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.csprojAssemblyReference.cache
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.AssemblyInfoInputs.cache
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.AssemblyInfo.cs
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.dll
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.pdb
+C:\Users\Олександр\source\repos\DuckUSim\obj\Debug\netcoreapp3.1\DuckUSim.genruntimeconfig.cache

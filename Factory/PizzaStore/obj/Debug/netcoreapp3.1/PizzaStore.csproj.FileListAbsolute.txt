@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.exe
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.deps.json
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\bin\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.dll
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.pdb
+C:\Users\Олександр\Desktop\patterns\Factory\PizzaStore\obj\Debug\netcoreapp3.1\PizzaStore.genruntimeconfig.cache

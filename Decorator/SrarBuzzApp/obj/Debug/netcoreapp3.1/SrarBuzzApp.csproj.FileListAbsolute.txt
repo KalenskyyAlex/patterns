@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\bin\Debug\netcoreapp3.1\SrarBuzzApp.exe
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\bin\Debug\netcoreapp3.1\SrarBuzzApp.deps.json
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\bin\Debug\netcoreapp3.1\SrarBuzzApp.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\bin\Debug\netcoreapp3.1\SrarBuzzApp.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\bin\Debug\netcoreapp3.1\SrarBuzzApp.dll
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\bin\Debug\netcoreapp3.1\SrarBuzzApp.pdb
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.dll
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.pdb
+C:\Users\Олександр\Desktop\patterns\Decorator\SrarBuzzApp\obj\Debug\netcoreapp3.1\SrarBuzzApp.genruntimeconfig.cache

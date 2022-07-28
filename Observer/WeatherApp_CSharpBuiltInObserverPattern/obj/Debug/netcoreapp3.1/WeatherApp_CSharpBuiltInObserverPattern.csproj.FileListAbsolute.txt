@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\bin\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.exe
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\bin\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.deps.json
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\bin\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\bin\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\bin\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.dll
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\bin\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.pdb
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.dll
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.pdb
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.genruntimeconfig.cache
+C:\Users\Олександр\Desktop\patterns\Observer\WeatherApp_CSharpBuiltInObserverPattern\obj\Debug\netcoreapp3.1\WeatherApp_CSharpBuiltInObserverPattern.csprojAssemblyReference.cache

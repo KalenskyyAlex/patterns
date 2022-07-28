@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\bin\Debug\netcoreapp3.1\ChocoFactory.exe
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\bin\Debug\netcoreapp3.1\ChocoFactory.deps.json
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\bin\Debug\netcoreapp3.1\ChocoFactory.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\bin\Debug\netcoreapp3.1\ChocoFactory.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\bin\Debug\netcoreapp3.1\ChocoFactory.dll
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\bin\Debug\netcoreapp3.1\ChocoFactory.pdb
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.dll
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.pdb
+C:\Users\Олександр\Desktop\patterns\Singleton\ChocoFactory\obj\Debug\netcoreapp3.1\ChocoFactory.genruntimeconfig.cache

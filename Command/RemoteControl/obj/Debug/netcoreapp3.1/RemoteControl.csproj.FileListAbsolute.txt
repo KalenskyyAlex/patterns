@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\bin\Debug\netcoreapp3.1\RemoteControl.exe
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\bin\Debug\netcoreapp3.1\RemoteControl.deps.json
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\bin\Debug\netcoreapp3.1\RemoteControl.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\bin\Debug\netcoreapp3.1\RemoteControl.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\bin\Debug\netcoreapp3.1\RemoteControl.dll
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\bin\Debug\netcoreapp3.1\RemoteControl.pdb
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.dll
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.pdb
+C:\Users\Олександр\Desktop\patterns\Command\RemoteControl\obj\Debug\netcoreapp3.1\RemoteControl.genruntimeconfig.cache

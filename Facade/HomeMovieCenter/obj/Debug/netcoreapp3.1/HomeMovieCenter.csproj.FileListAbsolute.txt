@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\bin\Debug\netcoreapp3.1\HomeMovieCenter.exe
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\bin\Debug\netcoreapp3.1\HomeMovieCenter.deps.json
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\bin\Debug\netcoreapp3.1\HomeMovieCenter.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\bin\Debug\netcoreapp3.1\HomeMovieCenter.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\bin\Debug\netcoreapp3.1\HomeMovieCenter.dll
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\bin\Debug\netcoreapp3.1\HomeMovieCenter.pdb
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.dll
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.pdb
+C:\Users\Олександр\Desktop\patterns\Facade\HomeMovieCenter\obj\Debug\netcoreapp3.1\HomeMovieCenter.genruntimeconfig.cache
