@@ -6,19 +6,17 @@ namespace Restaurant
 {
     class MainMenu : IMenu
     {
-        Stack<string> dishes; // наш клас побудований на Stack<string>
+        Stack<MenuItem> dishes; // наш клас побудований на Stack<string>
 
         // задаємо наше меню
         public MainMenu()
         {
-            dishes = new Stack<string>();
-            dishes.Push("Chicken Nuggets - 5$");
-            dishes.Push("Frites - 4$");
-            dishes.Push("Salat - 3.5$");
+            dishes = new Stack<MenuItem>();
+            dishes.Push(new MenuItem() { name = "Fish", descr = "grilled fish with vegetables", cost = 10.6 });
+            dishes.Push(new MenuItem() { name = "French fries", descr = "potato sticks boiled in oil", cost = 7.5 });
+            dishes.Push(new MenuItem() { name = "Salad", descr = "tomato, cucumber, salad leaves, paprik, sause, salt, pepper", cost = 8 });
         }
 
-        // ще дуже багато методів, побудованих на тому, що disches це Stack<string> - ми не хочемо їх переписувати
-        
         public IIterator createIterator()
         {
             return new MainIterator(dishes);
@@ -28,9 +26,9 @@ namespace Restaurant
     // стврюємо простий ітератор для MainMenu 
     class MainIterator : IIterator
     {
-        private Stack<string> dishes;
+        private Stack<MenuItem> dishes;
 
-        public MainIterator(Stack<string> dishes)
+        public MainIterator(Stack<MenuItem> dishes)
         {
             this.dishes = dishes;
         }
@@ -49,7 +47,7 @@ namespace Restaurant
 
         public object getNext()
         {
-            string res = dishes.Pop();
+            MenuItem res = dishes.Pop();
             return res;
         }
     }

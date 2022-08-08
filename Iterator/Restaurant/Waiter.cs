@@ -32,7 +32,8 @@ namespace Restaurant
         {
             while (iter.hasNext())
             {
-                Console.WriteLine(iter.getNext());
+                MenuItem item = (MenuItem)iter.getNext();
+                Console.WriteLine(item.name + " - " + item.descr + " - " + item.cost.ToString());
             }
         }
     }
