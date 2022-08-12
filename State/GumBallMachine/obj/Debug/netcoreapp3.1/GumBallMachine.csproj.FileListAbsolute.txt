@@ -1,0 +1,13 @@
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\GumBallMachine.exe
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\GumBallMachine.deps.json
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\GumBallMachine.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\GumBallMachine.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\GumBallMachine.dll
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\GumBallMachine.pdb
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.dll
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.pdb
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.genruntimeconfig.cache
