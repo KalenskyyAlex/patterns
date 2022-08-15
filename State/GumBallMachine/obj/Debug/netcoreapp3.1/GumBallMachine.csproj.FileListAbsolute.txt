@@ -11,3 +11,5 @@ C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netc
 C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.dll
 C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.pdb
 C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.genruntimeconfig.cache
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\bin\Debug\netcoreapp3.1\IGumBallMachine.dll
+C:\Users\Олександр\Desktop\patterns\State\GumBallMachine\obj\Debug\netcoreapp3.1\GumBallMachine.csproj.CopyComplete

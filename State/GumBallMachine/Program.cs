@@ -12,7 +12,10 @@
 // Отож як зробити машину станів більш гнучкою і розширюваною? На допомогу патерн станів
 //
 // Якщо формально, то:
-//      Патерн станів інкапсулює кожен стан машини. Машина лише делегує, який метод викликати, а стан вже вирішує реаліазацію, і переходи до інших станів
+//
+//      Патерн станів інкапсулює кожен стан машини. Машина лише делегує, який метод викликати, а стан вже вирішує реаліазацію,
+//      і переходи до інших станів
+//
 // Ой, вийшло якось неформально, але суть ви второпали =)
 
 // Тестовий модуль
@@ -22,7 +25,7 @@ namespace GumBallMachine
     {
         static void Main(string[] args)
         {
-            GumBallMachine machine = new GumBallMachine(10);
+            GumBallMachine machine = new GumBallMachine(15, "Las Vegas");
 
             machine.insert();
             machine.turn_crank();
@@ -34,7 +37,7 @@ namespace GumBallMachine
             machine.eject();
 
 
-            for(int i = 0; i < 8; i++)
+            for (int i = 0; i < 8; i++)
             {
                 machine.insert();
                 machine.turn_crank();
@@ -43,6 +46,10 @@ namespace GumBallMachine
             machine.insert();
             machine.turn_crank();
             machine.eject();
+
+            // дивись Proxy Pattern i ServerHelper.cs
+            ServerHelper serverHelper = new ServerHelper(machine);
+            serverHelper.Start();
         }
     }
 }

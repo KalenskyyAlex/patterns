@@ -1,21 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using IGumBallMachine;
 
-namespace GumBallMachine
+// Тут реалізуємо інтерфейс для наших станів, щоб машина могла перемикатися
+namespace GumBallMachine 
 {
-    interface State
-    {
-        void insert();
-
-        void eject();
-
-        void turn_crank();
-
-        void throw_gum();
-    }
-
-
     class NO_COIN : State
     {
         private GumBallMachine machine;
@@ -98,8 +88,8 @@ namespace GumBallMachine
         public void throw_gum()
         {
             Console.WriteLine("Gum throwed");
-            machine.gums--;
-            if (machine.gums == 0)
+            machine.decrementGum();
+            if (machine.getInventory() == 0)
             {
                 machine.state = GumBallMachine.SOLD_OUT;
             }

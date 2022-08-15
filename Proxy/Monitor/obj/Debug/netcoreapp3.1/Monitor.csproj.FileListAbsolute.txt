@@ -1,0 +1,15 @@
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfoInputs.cache
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.AssemblyInfo.cs
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\Monitor.exe
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\Monitor.deps.json
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.json
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\Monitor.runtimeconfig.dev.json
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\bin\Debug\netcoreapp3.1\IGumBallMachine.dll
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.csproj.CopyComplete
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.dll
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.pdb
+C:\Users\Олександр\Desktop\patterns\Proxy\Monitor\obj\Debug\netcoreapp3.1\Monitor.genruntimeconfig.cache
