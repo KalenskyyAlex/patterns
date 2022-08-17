@@ -1,0 +1,10 @@
+C:\Users\Олександр\source\repos\ImageLoader\bin\Debug\ImageLoader.exe.config
+C:\Users\Олександр\source\repos\ImageLoader\bin\Debug\ImageLoader.exe
+C:\Users\Олександр\source\repos\ImageLoader\bin\Debug\ImageLoader.pdb
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.csprojAssemblyReference.cache
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.ImageLoader.resources
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.Properties.Resources.resources
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.csproj.GenerateResource.cache
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.exe
+C:\Users\Олександр\source\repos\ImageLoader\obj\Debug\ImageLoader.pdb
