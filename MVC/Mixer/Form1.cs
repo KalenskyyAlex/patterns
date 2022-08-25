@@ -2,6 +2,12 @@
 using System.Windows.Forms;
 using System.Threading;
 
+// Я думаю є сенс це продублювати сюди
+//
+// ЛЕГЕНДА
+// Ми хочемо зробити програму, яка буте створювати біт з можливістю виставляти частоту. Все настільки просто, але 
+// реалізація обіцяє бути цікавою
+//
 // VMC патерн - це один з складених патернів, тобто який є комбінацією простіших. MVC означає Model View
 // Controller і чудово описує принцип його роботи. Цей патерн використовується для систем, які мають користувача
 // який взаємодіє з інтерфейсом (View), вводить дані (Controller), звертаючись до ядра програми, яке займається
@@ -76,10 +82,11 @@ namespace Mixer
         }
 
 
-        // робимо *туц* *туц* *туц* *туц* *туц*
+        // робимо *туц* *туц* *туц* *туц* *туц* візуальним
         public void update()
         {
             BeatDisplay.BeginInvoke((MethodInvoker)delegate () { BeatDisplay.Value = 100; });
+            BeatDisplay.BeginInvoke((MethodInvoker)delegate () { BeatDisplay.MarqueeAnimationSpeed = 10; });
             Thread.Sleep(500);
             BeatDisplay.BeginInvoke((MethodInvoker)delegate () { BeatDisplay.Value = 0; });
         }

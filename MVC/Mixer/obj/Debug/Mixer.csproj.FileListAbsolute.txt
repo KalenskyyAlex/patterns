@@ -8,3 +8,13 @@ C:\Users\Олександр\source\repos\Mixer\obj\Debug\Mixer.csproj.CoreCompil
 C:\Users\Олександр\source\repos\Mixer\obj\Debug\Mixer.exe
 C:\Users\Олександр\source\repos\Mixer\obj\Debug\Mixer.pdb
 C:\Users\Олександр\source\repos\Mixer\obj\Debug\Mixer.View.resources
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\bin\Debug\Mixer.exe.config
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\bin\Debug\Mixer.exe
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\bin\Debug\Mixer.pdb
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.csprojAssemblyReference.cache
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.View.resources
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.Properties.Resources.resources
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.csproj.GenerateResource.cache
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.csproj.CoreCompileInputs.cache
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.exe
+C:\Users\Олександр\Desktop\patterns\MVC\Mixer\obj\Debug\Mixer.pdb

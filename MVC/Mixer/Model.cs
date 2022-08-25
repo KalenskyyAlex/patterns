@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.Threading;
+using System.Media;
 
 
 // Отож Model - це ядро нашої системи.
@@ -24,7 +25,7 @@ namespace Mixer
         {
             BPMObservers = new List<IBPMObserver>();
             BeatObservers = new List<IBeatObserver>();
-            beatTimer = new Timer(new TimerCallback(notify));
+            beatTimer = new Timer(new TimerCallback(playSound));
 
             STOP = new StopState(this);
             START = new StartState(this);
@@ -56,8 +57,11 @@ namespace Mixer
             return state.getBPM();
         }
 
-        private void notify(object o)
+        // додамо трошки звуку
+        private void playSound(object o) 
         {
+            SystemSounds.Beep.Play(); // я не дуже то парився, і на біту в нас стоять системні звуки
+            // не дайте це прочитати Тимофію (._.)
             notifyBeatObservers();
         }
 
